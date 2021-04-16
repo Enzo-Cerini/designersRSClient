@@ -9,7 +9,7 @@ import currency.management.web.data.*;
 
 /**
  * @file Test.java
- * @brief Classe représentant le client RS
+ * Classe représentant le client RS
  * @author OBEYESEKARA Avishka, CERINI Enzo
  * @version 1.0
  * @date 15/04/2021
