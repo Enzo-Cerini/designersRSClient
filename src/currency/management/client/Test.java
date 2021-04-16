@@ -59,7 +59,6 @@ public class Test {
 		String uri = r.getHeaderString("Content-Location");
 		System.out.println("The currency "+ name + " has been added with the value "+ value + "\n");
 		return 0;
-		
 	}
 	
 	
